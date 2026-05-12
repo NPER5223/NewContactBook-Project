@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\bin\Debug\net8.0\ContactBook3.0.exe
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\bin\Debug\net8.0\ContactBook3.0.deps.json
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\bin\Debug\net8.0\ContactBook3.0.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\bin\Debug\net8.0\ContactBook3.0.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\bin\Debug\net8.0\ContactBook3.0.pdb
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\refint\ContactBook3.0.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.pdb
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ContactBook3.0.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\ContactBook3.0\obj\Debug\net8.0\ref\ContactBook3.0.dll
