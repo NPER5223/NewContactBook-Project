@@ -1,1 +1,5 @@
 Here you will find my code of the Contact book and using DSU. Hope you can view my code and m,ake changes yto make it better and more faster. Tell me if you do.
+
+My original program is the File "NewContactBook". 
+
+The Second File named "ContactBook3.0" is the new program developed much better using The updated version improves the implementation by using the correct required APIs and a cleaner design. Searching now uses FindAll() instead of LINQ Where(), which directly returns a List<Entry> as required by the assignment. Sorting was significantly improved by replacing OrderBy() with List.Sort() and a dedicated ContactComparer class, allowing full multi-level tie-breaking (Phone → FirstName → LastName → Email) while sorting in place without extra memory allocation. In addition, the DSU logic was refactored from hidden local functions into a separate reusable DSU class with proper FindRoot() and Union() methods, making the code more modular, readable, and aligned with the professor’s data-structure requirements.
